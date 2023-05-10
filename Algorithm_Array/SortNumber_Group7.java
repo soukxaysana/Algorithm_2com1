@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class SortNumber_Group7 {
 
     public static void selectionSort(int[] arr) {
         int n = arr.length;
