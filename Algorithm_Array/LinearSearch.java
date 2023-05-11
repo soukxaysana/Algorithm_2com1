@@ -2,7 +2,7 @@
 
 package Algorithm_Array;
 
-public class Group1 {
+public class LinearSearch {
         public static int search(int arr[], int x){
             int N= arr.length;
                 for(int i=0 ; i < N ; i++){
